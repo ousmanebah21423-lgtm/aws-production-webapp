@@ -1,0 +1,14 @@
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Browser/system files
+AppData/
+Downloads/
